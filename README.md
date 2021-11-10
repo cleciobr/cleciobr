@@ -1,4 +1,4 @@
-<img src="https://github.com/cleciobr/devbook/blob/main/design/octocat_github.gif">
+<img src="https://github.com/cleciobr/devbook/blob/main/design/octocat_github2.gif">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
