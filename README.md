@@ -1,84 +1,11 @@
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-# :computer: :green_book: devBook
+### Hi 👋
+I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
+- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
+- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
+- 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
-A bingo book of github devs
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
-![](/static/banner.png)
-
-# Welcome :)
-
-# Table of Contents
-
-  - [Challenge](#challenge)
-    - [Requirements](#requirements)
-      - [Techs](#techs)
-    - [Hints](#hints)
-    - [Bonus Points](#bonus-points)
-  - [Get Started](#get-started)
-  - [Design](#design)
-    - [Colors](#colors)
-    - [Typography](#typography)
-  - [Share](#share)
-  
-# Website
-website (home/landing page, search results and user details) consuming [github](https://docs.github.com/en/rest/reference/search) and [github stats](https://github.com/anuraghazra/github-readme-stats) public APIs.
-
-## Requirements
-- Homepage should have a search bar where user can search for github users
-- Homepage should have a carousel section that shows the top github users
-- Github user's card should have a name, username and bio.
-- When user performs a search, it should redirect to the results page where the best matches for that search is shown.
-- Whenever a user clicks in a github user card, it should redirects to that github user's page where is shown that user's github stats and repos
-
-### Techs
-- HTML
-- CSS
-- JS
-
-You can also use React.js or any other framework you prefer.
-
-## Hints
-- You can create your own octocat [here](https://myoctocat.com/build-your-octocat/) to use in your project. Don't forget to remove the white background of your octocat image on photoshop or any other image editor.
-- Use [search params](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams) to generate dynamic pages for the search page. Example: `https://book.dev/search?query=<lucas>`
-
-## Bonus Points
-
-- Create light mode and a switch in the navbar to enable it
-- Add contact info of github users in the users' card and users' details
-- Create a filter for searching only the hireable ones
-- Create [skeletons](https://uxdesign.cc/what-you-should-know-about-skeleton-screens-a820c45a571a) to be shown while data is fetching in order to improve the website UX. In the design files and figma you can find skeletons models for the cards.
-
-# Get started
-1 - Use this template or download this repository with the starter code<br>
-2 - Read the instructions in readme.md<br>
-3 - Start coding!<br>
-4 - Share your results with the community. Project Lucas Miranda (https://devchallenge.com.br/challenges/5f261d39ecb9243236c05387/details) :)<br>
-<br>
-
-
-Feel free to use any workflow you are comfortable with :)
-
-# Design:
-Check it out on [figma](https://www.figma.com/file/VEMlScBkM2J9lQ1dMayXpP/devbook?node-id=1%3A4) or download the [.fig file](https://github.com/lucas-lm/devbook-devchallenge/blob/master/design/devbook.fig) at `./design`
-
-## Colors
-```js
-  colors: {
-    primary: '#6C80EA',
-    secondary: '#A7A5EC',
-    background: {
-      main: 'linear-gradient(to bottom, #000, #00030f)',
-      paper: 'rgba(255, 255, 255, 0.25)',
-    },
-  }
-```
-
-## Typography
-```css
-font-family: 'Ubuntu', sans-serif; /* logo and headline tags */
-font-family: 'Roboto', sans-serif; /* paragraph, small and input tags */
-```
-
-# Share!
-Initialize your project with this template in your github as a public repository<br>
-Capture a screenshot, gif or video and share your result on Linkedin<br>
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
