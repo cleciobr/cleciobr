@@ -2,7 +2,7 @@
 
 <img src="https://github.com/cleciobr/devbook/blob/main/design/octocat_github3.gif">
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cleciobr&theme=dark&show_icons=true)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cleciobr&theme=github_dark&show_icons=true)
 
 Looking for opportunities and collabaration in projects and deep learning.
 - 🔭 I’m currently working on system analyst / developer. (also, I am brushing up my data structures and algorithms skills regularly).
