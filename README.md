@@ -1,6 +1,10 @@
 ### Hi 👋
 
-<img src="https://github.com/cleciobr/devbook/blob/main/design/octocat_github2.gif">
+<div align="center">
+  <a href="https://github.com/cleciobr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 Looking for opportunities and collabaration in projects and deep learning.
 - 🔭 I’m currently working on system analyst / developer. (also, I am brushing up my data structures and algorithms skills regularly).
