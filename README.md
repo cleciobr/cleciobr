@@ -1,6 +1,7 @@
+### Hi 👋
+
 <img src="https://github.com/cleciobr/devbook/blob/main/design/octocat_github2.gif">
 
-### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
