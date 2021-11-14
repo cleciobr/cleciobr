@@ -1,6 +1,8 @@
 ### Hi 👋
 
-<img src="https://github.com/cleciobr/devbook/blob/main/design/octocat_github3.gif">
+
+<img src="https://github.com/cleciobr/devbook/blob/main/design/Octocat.jpg">
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cleciobr&theme=github_dark&show_icons=true)
 
