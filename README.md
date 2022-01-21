@@ -11,9 +11,8 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cleciobr&theme=github_dark&show_icons=true)
 
 Looking for opportunities and collabaration in projects and deep learning.
-- 🔭 I’m currently working on system analyst / developer. (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision.
-- 🤝 I’m looking to collaborate on data science. 
+- 🌱🤝 🔭 I’m currently working on system analyst / developer. (also, I am brushing up my data structures and algorithms skills regularly).
+
 
 
 
